@@ -1,6 +1,4 @@
 # HWID Checker
-![hwidcheck](https://user-images.githubusercontent.com/106893699/232259512-d73a8e64-73a4-4a7d-86d9-fb59c53fd9cd.png)
-
 ------------------------------------------------------------------------------------------------------------------------
 
 KADEES HWID CHECKER
@@ -14,3 +12,7 @@ You are free to use this source as long as you give credit.
 By using this software you absorb all responsibility for use, misuse, and damages.
 
 This is for educational purposes only.
+
+![hwidcheck](https://user-images.githubusercontent.com/106893699/232259512-d73a8e64-73a4-4a7d-86d9-fb59c53fd9cd.png)
+
+------------------------------------------------------------------------------------------------------------------------
