@@ -1,0 +1,12 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: HWID Checker, Configuration: Release x64 ------
+1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Kadees HWID Checker.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+1>HWID Checker.cpp
+1>Generating code
+1>Previous IPDB not found, fall back to full compilation.
+1>All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+1>Finished generating code
+1>HWID Checker.vcxproj -> C:\Users\kadee\source\repos\HWID Checker\x64\Release\HWID Checker.exe
+1>Done building project "HWID Checker.vcxproj".
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+========== Rebuild started at 12:03 PM and took 00.999 seconds ==========
