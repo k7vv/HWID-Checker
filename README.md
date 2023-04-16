@@ -1,11 +1,13 @@
 # HWID Checker
 ------------------------------------------------------------------------------------------------------------------------
-
-KADEES HWID CHECKER
+Kadees HWID Checker
 -
 Check your Mobo Serial, System UUID, Disk Serials, and MAC Address.
 -
 To download - download Release 1.0 for the exe.
+
+virustotal scan:
+https://www.virustotal.com/gui/file/edaccd697a435c66beae7989c0ab587cec6bcebe3f12d1e5201f0d601b4a0ff9?nocache=1
 
 Will fix if it breaks. But it works completely fine for me.
 You are free to use this source as long as you give credit.
