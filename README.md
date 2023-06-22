@@ -9,7 +9,9 @@ To download - download Release 1.0 for the exe.
 virustotal scan:
 https://www.virustotal.com/gui/file/edaccd697a435c66beae7989c0ab587cec6bcebe3f12d1e5201f0d601b4a0ff9?nocache=1
 
-Will fix if it breaks. But it works completely fine for me.
+KNOWN BUGS: has dependencies but most people will already have them by default, for some people the redistributables X will not be recognized for an unknown reason.
+
+It works completely fine for me.
 You are free to use this source as long as you give credit.
 By using this software you absorb all responsibility for use, misuse, and damages.
 
